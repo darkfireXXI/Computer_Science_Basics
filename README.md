@@ -1,4 +1,4 @@
-# Computer Science Basics¶
+# Computer Science Basics
 
 Because even after doing algorithm trading, physics, and earning an MSc in engineering you still have to prove you can sort a list.
 
